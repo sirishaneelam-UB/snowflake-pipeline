@@ -1,2 +1,2 @@
 # snowflake-pipeline
-Cloud experience
+Developed ETL pipeline using dbt and snowflake
